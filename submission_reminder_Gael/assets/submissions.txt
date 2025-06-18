@@ -1,0 +1,15 @@
+student, assignment, submission status
+Chinemerem, Shell Navigation, not submitted
+Chiagoziem, Git, submitted
+Divine, Shell Navigation, not submitted
+Anissa, Shell Basics, submitted
+Edrick, Git, not submitted
+Ndoli Frank, Shell Basics,not submitted
+Vuningoma, Shell Navigation, submitted
+Chris, Git, submitted
+Queen, Shell Basics, submitted
+Gwiza Elicia, Shell Navigation, not submitted
+Manzi Chris, Git, not submitted
+Kami Uwambaye, Shell Basics,not submitted
+Ineza Lisa, Git, submitted
+Rujari Loic, Shell Navigation, submitted
